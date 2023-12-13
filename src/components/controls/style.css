@@ -1,0 +1,6 @@
+.Controls {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+  max-height: 21px;
+}
